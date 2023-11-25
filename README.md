@@ -1,1 +1,1 @@
-# Asus-z170-pro-G3900-RX580-Sonoma-Hackintosh
+# Asus z170-pro with intel celeron G3900, AMD RX580 Sonoma Mac OS (Hackintosh)
